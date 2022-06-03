@@ -1,0 +1,24 @@
+body{
+    padding: 0px;
+    margin: 0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    height: 100vh;
+}
+.principale{
+    color: brown;
+    padding: 0%;
+    border: solid;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-decoration: none;
+}
+.ul{
+    display: inline;
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
